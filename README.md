@@ -1,0 +1,2 @@
+# ALGO_K05
+Sale  In a certain (known from the "Neon" quest) shopping center there is a sale day - it would be a pity not to take advantage of this opportunity! You can visit N shops, each with its own opening hours, and you can (unfortunately) only be in one at a time ...  If you hit the store number j, you will buy goods for cj zlotys, spending exactly one unit of time there. Calculate how much money you can spend today.
